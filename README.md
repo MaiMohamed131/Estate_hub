@@ -256,6 +256,7 @@ This project is licensed under the MIT License.
 ## 👥 Authors
 
 - **Yousef Ashraf** - _Initial work_
+- **Mai Mohamed** - _Initial work_
 
 ## 🙏 Acknowledgments
 
@@ -267,3 +268,4 @@ This project is licensed under the MIT License.
 ---
 
 **Note:** This is the frontend application. For backend API documentation, please refer to the Backend_EstateHub repository.
+
